@@ -3,4 +3,5 @@ title: [Project name]
 description: [A short description of your project's purpose]
 show_downloads: false
 github:
-  is_project_page: 0
+  is_project_page: true
+  repository_url: link_to_your_repositories
