@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: [Project name]
 description: [A short description of your project's purpose]
 show_downloads: false
+github:
+  is_project_page: false
